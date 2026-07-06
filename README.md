@@ -1,32 +1,32 @@
 # Wesley Jasdiskoski
 
-> **Software Engineer** • **Educator** • **Builder**
+> **Software Engineer** • **Educator** • **Builder** • **Creator**
 
 <p align="center">
-  <i>Building with Purpose.</i>
+<i>Ideas first. Technology second. Purpose always.</i>
 </p>
 
 ---
 
 ## Current Mission
 
-I believe technology becomes truly meaningful when it helps people.
+I believe the best solutions are born long before the first line of code.
 
-Whether I'm developing software, teaching future developers or creating digital solutions for real-world challenges, my goal remains the same:
+For me, software development begins with observing, questioning, imagining and designing better ways to solve real-world problems.
 
-> **Build with purpose.**
+Technology is my toolbox.
 
-Every project is another opportunity to learn, teach and leave something better than before.
+Creativity is my greatest strength.
+
+Every project is an opportunity to transform an idea into something meaningful.
 
 ---
 
 ## Journey
 
-- **2018** — Began my journey serving at the altar.
-- **2023** — Became Master of Ceremonies.
 - **2025** — Graduated in Software Engineering.
 - **2026** — Started teaching Programming and Robotics at SENAI.
-- **Today** — Building meaningful software while helping people grow through technology and education.
+- **Today** — Designing ideas and transforming them into meaningful digital experiences.
 
 ---
 
@@ -34,43 +34,85 @@ Every project is another opportunity to learn, teach and leave something better 
 
 ### 🏛️ Altar Servers Platform
 
-A complete platform designed to manage altar servers, training materials, events, videos, achievements and service history.
+A complete platform designed to organize, modernize and improve the experience of altar servers through technology.
 
-### 🌐 Parish Secretary System
+---
 
-A web application created to organize parish records using Google Sheets and Google Apps Script.
+### 🌐 Web Platforms
 
-### 🤖 Robotics Education
+Development of modern websites and web applications focused on usability, organization and user experience.
 
-Projects, activities and educational materials developed for Programming and Robotics classes.
+---
 
-### 💱 Currency Converter
+### 🐍 Python Development
 
-A desktop application built with Python, focused on usability, accessibility and clean design.
+Development of desktop applications, automations and creative solutions using Python.
 
-### 📱 Mobile Development
+---
 
-Android applications developed during my studies and personal projects.
+### 📊 Smart Spreadsheets & Automation
+
+Creation of intelligent spreadsheets, dashboards and automated workflows using Google Sheets and Google Apps Script.
+
+---
+
+### 🤖 Education & Robotics
+
+Projects focused on programming education, robotics and creative problem-solving.
 
 ---
 
 ## Toolkit
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,flask,mysql,git,github,vscode,arduino,androidstudio" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,flask,mysql,git,github,vscode,arduino,androidstudio"/>
 
 </p>
+
+### I also work with
+
+- Google Apps Script
+- Google Sheets
+- Spreadsheet Automation
+- API Integrations
+- Responsive Web Design
+- UI/UX Thinking
+- Problem Solving
+- Creative Solution Design
 
 ---
 
 ## Current Focus
 
-- 🏛️ Improving the Altar Servers Platform.
+- 💡 Designing meaningful digital experiences.
+- 🌐 Building modern web platforms.
+- 🐍 Developing creative solutions with Python.
+- 📊 Automating processes with Google Sheets and Apps Script.
 - 👨‍🏫 Teaching Programming and Robotics.
-- 🌐 Building useful web applications.
-- 📚 Continuously learning Software Engineering.
 - 🇮🇹 Preparing for future opportunities in Europe.
+
+---
+
+## Philosophy
+
+I don't believe great software starts with technology.
+
+It starts with curiosity.
+
+With the courage to question what already exists.
+
+With creativity to imagine something better.
+
+Only then comes the code.
+
+Technology changes.
+
+Languages evolve.
+
+Frameworks come and go.
+
+But good ideas remain timeless.
 
 ---
 
@@ -88,14 +130,17 @@ Android applications developed during my studies and personal projects.
 
 ## Let's Build Together
 
-I'm always open to conversations about:
+I'm always interested in conversations about
 
 - Software Engineering
+- Creative Ideas
 - Education
+- Artificial Intelligence
 - Web Development
-- Robotics
-- Technology
-- Open Source
+- Python
+- Automation
+- Design
+- Innovation
 - Meaningful Projects
 
 Feel free to explore my repositories or connect with me.
@@ -104,10 +149,8 @@ Feel free to explore my repositories or connect with me.
 
 <p align="center">
 
-<i>Still building.</i>
+### Still building.
 
-<br><br>
-
-<sub>"Every meaningful work begins with a single stone."</sub>
+*"Every meaningful work begins with an idea."*
 
 </p>
