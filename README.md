@@ -1,16 +1,61 @@
-## Hi there 👋
+<p align="center">
+  <img src="the-view.png" width="100%" alt="The View">
+</p>
 
-<!--
-**Jasdiskoski-W/JASDISKOSKI-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Wesley Jasdiskoski</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Software Engineer • Educator • Builder
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<i>Building with Purpose.</i>
+</p>
+
+---
+
+## Current Mission
+
+_Work in progress..._
+
+---
+
+## Journey
+
+_Work in progress..._
+
+---
+
+## Featured Works
+
+_Work in progress..._
+
+---
+
+## Toolkit
+
+_Work in progress..._
+
+---
+
+## Current Focus
+
+_Work in progress..._
+
+---
+
+## GitHub Statistics
+
+_Work in progress..._
+
+---
+
+## Let's Build Together
+
+_Work in progress..._
+
+---
+
+<p align="center">
+Still building.
+</p>
