@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="the_view.png" width="100%" alt="The View">
+  <img src="the_view.png" width="70%" alt="The View">
 </p>
 
 <h1 align="center">Wesley Jasdiskoski</h1>
